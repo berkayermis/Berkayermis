@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://twitter.com/mberkayermis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mberkayermis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mbermis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mbermis" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/berkayermis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="berkayermis" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14156272/berkay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="berkayermis" height="30" width="40" /></a>
 <a href="https://instagram.com/m.b.ermis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m.b.ermis" height="30" width="40" /></a>
 <a href="https://discord.gg/2288" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="2288" height="30" width="40" /></a>
 </p>

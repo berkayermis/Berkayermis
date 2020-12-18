@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay Ermiş</h1>
-<h3 align="center">I am a third year CS student</h3>
+<h3 align="center">I am a third year CS student and the team leader of DSC Medipol, part of the Google Developer Communities.</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayermis&show_icons=true&locale=en&layout=compact&theme=dracula" alt="berkayermis" /></p>
 

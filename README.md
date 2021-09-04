@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Berkay Ermiş</h1>
-<h3 align="center">I am a fourth-grade CS student and the team leader of DSC Medipol, part of the Google Developer Communities.</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayermis&show_icons=true&locale=en&layout=compact&theme=dracula" alt="berkayermis" /></p>
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="firebase" height="50" />  
+<p align="center">
+<img src="https://media.giphy.com/media/k4n9RZ6c9Gc3eOvBKc/giphy.gif?cid=790b761122c49c7cb8dee850f14ce8f02894482919d7fbc0&rid=giphy.gif&ct=g" width="50%"/>
 </p>
+
+<h1 align="center">Hi :ringed_planet:	, I'm Berkay Ermiş</h1>
+<h4 align="center">
+  
+I am a fourth-grade computer engineering student at Istanbul Medipol University.
+I have created a Google DSC community at the Istanbul Medipol campus in September 2020 and we have organized various workshops, tech talks, hackathon and summit throughout the year.
+
+I am currently interested in Blockchain technology. Also, I am interested the cryptography, distributed systems as well as my finance interest. Recently, I am trying to develop myself on Blockchain technology and started to feel the excitement about new initiatives that technology will bring with web 3.
+  
+</h4>
+<hr>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayermis&show_icons=true&locale=en&layout=compact&theme=dracula" alt="berkayermis" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

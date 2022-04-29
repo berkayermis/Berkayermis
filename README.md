@@ -11,7 +11,6 @@ Recently I have been interested in Blockchain development, following projects re
   
 </h4>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayermis&show_icons=true&locale=en&layout=compact&theme=dracula" alt="berkayermis" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

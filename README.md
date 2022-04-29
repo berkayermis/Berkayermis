@@ -5,9 +5,9 @@
 <h1 align="center">Hi :ringed_planet:	, I'm Berkay Ermiş</h1>
 <h4 align="center">
   
-I am a senior computer engineering student who is prone to teamwork, open to innovations, and one of the 41 fellows selected by the Turkish Entrepreneurship Foundation in 2021.
+I am a senior computer engineering student who is prone to teamwork, open to innovations, and one of the 41 fellows selected by the Turkish Entrepreneurship Foundation among 138.612 applicants in 2021.
 
-Recently I have been interested in Blockchain development by following Metaverse, DAOs, and DeFi related projects.
+Recently I have been interested in Blockchain development, following projects related to NFTs, Metaverse, DAOs and DeFi.
   
 </h4>
 <hr>

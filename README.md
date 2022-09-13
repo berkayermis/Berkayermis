@@ -5,7 +5,7 @@
 <h1 align="center">Hi :ringed_planet:	, I'm Berkay Ermiş</h1>
 <h4 align="center">
   
-🔹 Computer Engineer and Blockchain Enthuatist, who graduated from Istanbul Medipol University in 2022, and one of the 41 fellows selected by the Turkish Entrepreneurship Foundation among 138.612 applicants in 2021.
+🔹 Computer Engineer and Blockchain Enthusiast, who graduated from Istanbul Medipol University in 2022, and one of the 41 fellows selected by the Turkish Entrepreneurship Foundation among 138.612 applicants in 2021.
 
 🔹 Recently I have been interested in Blockchain development, following projects related to NFTs, Metaverse, DAOs, and Decentralized Finance.
   

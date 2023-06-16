@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/k4n9RZ6c9Gc3eOvBKc/giphy.gif?cid=790b761122c49c7cb8dee850f14ce8f02894482919d7fbc0&rid=giphy.gif&ct=g" width="50%"/>
+<img src="https://github.com/berkayermis/Berkayermis/assets/67913214/a2c9268a-1787-426b-a57e-a119f67acecc" width="50%"/>
 </p>
 
 <h1 align="center">Hi :ringed_planet:	, I'm Berkay Ermiş</h1>

@@ -10,9 +10,9 @@
 
 .Experienced in blockchain development, with a focus on projects related to Decentralized Finance (DeFi), NFT Marketplaces, Launchpad, and Cryptography.
 
-.Previously ran my own blockchain company for 10 months, gaining valuable hands-on experience in the industry (yeklabs.com).
+.Previously ran my own blockchain company for more than a year, gaining valuable hands-on experience in the industry (yeklabs.com & ormiwallet.com).
 
-.Currently working on OrmiWallet, a digital crypto wallet aimed at enhancing user experience and security (ormiwallet.com).
+.Currently working on Parabol Finance, a new stablecoin ecosystem that natively embeds risk-free return.
   
 <hr>
 

@@ -4,15 +4,9 @@
 
 <h1 align="center">Beating the streets</h1>
   
-.Computer Engineer and Blockchain Enthusiast, passionate about the potential of decentralized technologies. Graduated from Istanbul Medipol University in 2022.
+Computer Engineer and Blockchain Enthusiast, passionate about the potential of decentralized technologies. Graduated from Istanbul Medipol University in 2022. Selected as one of the 41 fellows by the Turkish Entrepreneurship Foundation among 138,612 applicants in 2021. Experienced in blockchain development, with a focus on projects related to Decentralized Finance (DeFi).
 
-.Selected as one of the 41 fellows by the Turkish Entrepreneurship Foundation among 138,612 applicants in 2021.
-
-.Experienced in blockchain development, with a focus on projects related to Decentralized Finance (DeFi), NFT Marketplaces, Launchpad, and Cryptography.
-
-.Previously ran my own blockchain company for more than a year, gaining valuable hands-on experience in the industry (yeklabs.com & ormiwallet.com).
-
-.Currently working on Parabol Finance, a new stablecoin ecosystem that natively embeds risk-free return.
+Previously ran my own blockchain company for more than a year, gaining valuable hands-on experience in the industry.Currently working on Parabol Finance, a new stablecoin ecosystem that natively embeds risk-free return.
   
 <hr>
 

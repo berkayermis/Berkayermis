@@ -12,7 +12,6 @@ Previously ran my own blockchain company for more than a year, gaining valuable 
 
 <h3 align="center">Media</h3>
 <p align="center">
-<a href="https://twitter.com/mberkayermis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mberkayermis" height="30" width="40" /></a>
+<a href="https://twitter.com/berkayermis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mberkayermis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mbermis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mbermis" height="30" width="40" /></a>
-    <a href="https://twitter.com/parabolfi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mberkayermis" height="30" width="40" /></a>
 </p>
